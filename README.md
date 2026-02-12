@@ -1,4 +1,4 @@
-# Get box around Subtitles in videos
+# Get Subtitles Bounding Box From Videos
 
 This Python script automates the process of extracting and recognizing subtitle text from video frames.
  It uses OpenCV for video processing and easyOCR for Optical Character Recognition (OCR).
